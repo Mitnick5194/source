@@ -40,7 +40,7 @@ public class Blog {
 		if (oldmark == this.mark) {
 			return; //不用做保存操作
 		}
-		// TODO  保存到数据库或文件中
+		// TODO 可以保存到数据库或文件中
 	}
 
 	protected boolean isMark(int mark) {
