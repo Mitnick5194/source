@@ -19,4 +19,5 @@ Client 运行结果：
 博文是否可以收藏: true <br/>
 博文是否可以点赞: true <br/>
 博文是否为私密: true <br/>
-<div style="color: red">div内容</div
+<div style="color: red">div内容</div>
+<a href="http://www.baidu.com">链接</a>
