@@ -19,9 +19,5 @@ Client 运行结果：
 博文是否可以收藏: true <br/>
 博文是否可以点赞: true <br/>
 博文是否为私密: true <br/>
-<div style="font-size:20px">div内容</div>
-<a href="http://www.baidu.com">链接</a>
-<img src="http://img5.imgtn.bdimg.com/it/u=807605679,2027849210&fm=27&gp=0.jpg"/>
 
 
-![Alt text](https://github.com/Mitnick5194/images/blob/master/mmexport1436536250450.jpg)
