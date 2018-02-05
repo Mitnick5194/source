@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 将V集合转换成E 继承AbstractCollection 代表ListTrans是一个集合对象 有size等属性 不然就是一个对象而已 根本无法遍历
+ * 将V集合转换成E 继承AbstractCollection 实现get方法
  * 
  * @author ajie
  * 
